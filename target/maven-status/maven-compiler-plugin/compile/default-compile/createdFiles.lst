@@ -1,0 +1,3 @@
+com\docker\test\controller\UserInformation.class
+com\docker\test\controller\SampleAppDockrController.class
+com\docker\test\SpringDockerTestApplication.class
